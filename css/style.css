@@ -1,0 +1,48 @@
+    /* Add some CSS styles to enhance the look and feel */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    h1 {
+      color: darkblue;
+    }
+
+    input[type=file] {
+      border: 1px solid lightgray;
+      padding: 5px;
+    }
+
+    button {
+      background-color: darkblue;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+    }
+
+    button:hover {
+      opacity: 0.8;
+    }
+
+    #result {
+      margin-top: 20px;
+      border: 1px solid darkblue;
+      padding: 10px;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      border: 1px solid lightgray;
+      padding: 5px;
+      text-align: left;
+    }
+
+    th {
+      background-color: darkblue;
+      color: white;
+    }
